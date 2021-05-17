@@ -18,13 +18,13 @@
 ### Spotify Playing 🎧
 
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31afwq4rva7wb7onafgvsgzfxwtu)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31cgtc4ajvm5c4eiktvcx6da3rrq)
 
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-kumar-4b8850175/)](https://www.linkedin.com/in/tarun-kumar-4b8850175/)&nbsp;[![Instagram Badge](https://img.shields.io/badge/-instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/arjun.kr.21/)](https://www.instagram.com/arjun.kr.21/)&nbsp;[![Hashnode Badge](https://img.shields.io/badge/-hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://hashnode.com/@arjunkr123)](https://hashnode.com/@arjunkr123)&nbsp;
 <br/>
-[![Medium Badge](https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@krishnakantkumar_32146)](https://medium.com/@krishnakantkumar_32146)&nbsp; [![Youtube Badge](https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)](https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)&nbsp; [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/arjun.kr.3760)](https://www.facebook.com/arjun.kr.3760)&nbsp; 
+[![Medium Badge](https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@tarun7548)](https://medium.com/@tarun7548)&nbsp; [![Youtube Badge](https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)](https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)&nbsp; [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/arjun.kr.3760)](https://www.facebook.com/arjun.kr.3760)&nbsp; 
 
 
 
